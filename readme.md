@@ -1,0 +1,1 @@
+Hosting for several projects at single server

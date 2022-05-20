@@ -1,0 +1,15 @@
+{
+  "name": "hosting-server",
+  "version": "1.0.0",
+  "description": "Proxy server for hosting at single server",
+  "main": "index.proxy.js",
+  "scripts": {
+    "proxy": "node ./js/index.proxy.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  },
+  "devDependencies": {}
+}
