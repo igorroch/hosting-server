@@ -2,8 +2,10 @@
   "domain": "my.igorroch.ru",
   "port": 8080,
   "host": "127.0.0.1",
-  "protocol": "https"
+  "protocol": "https",
+  "folder": "my-project"
 },{
   "host": "example.igorroch.ru",
-  "port": 8088
+  "port": 8088,
+  "folder": "example-project"
 }]
